@@ -1,2 +1,0 @@
-# fabricSvg
-Created with CodeSandbox
